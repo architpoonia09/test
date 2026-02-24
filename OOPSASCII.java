@@ -1,3 +1,4 @@
+package test.test;
 public class OOPSASCII {
     // UC3: Refactored logic into a separate method
     public static void printBanner() {
@@ -11,3 +12,4 @@ public class OOPSASCII {
     public static void main(String[] args) {
         printBanner();
     }
+}
