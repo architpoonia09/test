@@ -1,5 +1,3 @@
-package test.test;
-
 public class OOPSASCII {
     public static void main(String[] args) {
         System.out.println(" OOO   OOO  PPPP   SSSS ");
